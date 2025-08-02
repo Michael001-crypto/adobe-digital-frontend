@@ -1,0 +1,12 @@
+<!-- Save this as logo.svg -->
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <polygon 
+    points="32,0 8,64 24,64 32,40 40,64 56,64" 
+    fill="url(#gradient)" />
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0057FF"/>
+      <stop offset="100%" stop-color="#00BFFF"/>
+    </linearGradient>
+  </defs>
+</svg>
